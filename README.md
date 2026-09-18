@@ -121,3 +121,7 @@ and participation across different Olympic years.
 
 **Lubna Shireen R**
 **Student | Data Enthusiast | Learner**
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star ⭐ 
