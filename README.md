@@ -115,3 +115,9 @@ Visualizations include:
 The project uses Power BI visualizations to explore Olympic data and
 identify patterns in medal distribution, sports, athlete performance,
 and participation across different Olympic years.
+---
+
+## 👩‍💻 Developed By
+
+**Lubna Shireen R**
+**Student | Data Enthusiast | Learner**
