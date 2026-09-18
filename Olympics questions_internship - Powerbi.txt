@@ -1,0 +1,28 @@
+Olympics Data Analysis
+Problem Statement 1: Analyze the overall medal distribution (Gold, Silver, Bronze) across countries
+and identify the top-performing nations over time.
+a) Which country has won the most medals overall?
+b) How has medal performance changed across decades?
+c) Which country dominates in specific medal types?
+
+Problem Statement 2: Determine which sports contribute the highest number of medals globally
+and per country.
+a) Which sport has the highest number of medals?
+b) Which country dominates each sport?
+c) How has participation in sports evolved over time?
+
+Problem Statement 3: Identify top-performing athletes and analyze repeat medal winners.
+a) Who are the most decorated athletes?
+b) Which athletes have won medals in multiple Olympics?
+c) What is the average age of medal-winning athletes?
+
+
+Problem Statement 4: Analyze how the Olympic Games have evolved in terms of number of sports,
+athletes, and participating nations.
+a) How many countries participated over time?
+b) How has the number of sports increased?
+c) Which decade had the highest growth?
+
+Instructions:
+ Create charts/dashboards for all the problems.
+ Use Power BI Desktop to build your visuals.
